@@ -1,0 +1,5 @@
+Model,RMSE,MAE,R2
+Linear Regression,0.070186,0.05676,0.960773
+Ridge Regression,0.083567,0.072688,0.94439
+KNN Regression,0.283962,0.22592,0.357898
+Polynomial Regression,0.69119,0.471222,-2.804328
